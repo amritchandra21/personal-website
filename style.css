@@ -1,0 +1,69 @@
+.section-1 {
+    background-color: #F0ECC3;
+    color: #EA5B09;
+}
+.inner-section {
+    background-color: white;
+    color: #EA5B09;
+}
+.profile-pic {
+    border-radius: 50%;
+}
+.libre-baskerville-regular {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+    
+  }
+  hr {
+    border: dotted #EA5B09 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+    margin-top: -40px;
+}
+.good-font {
+    font-family: "Edu AU VIC WA NT Hand", cursive;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .section-3 {
+    margin-top: -80px;
+    margin-bottom: -150px;
+    color: #EA5B09;
+  }
+  .information {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    margin: auto;
+  }
+  .chess {
+    margin-left: 30px;
+  }
+  .meditation {
+    margin-left: 48px;
+  }
+  .hrser {
+    margin-top: 40px;
+  }
+  .random {
+    padding-bottom: -100px;
+  }
+  .inner-sections {
+    margin-top: -40px;
+  }
+  .challenge > a{
+    color:#EA5B09;
+
+  }
+  .padders {
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+  .change {
+    margin-left: 240px;
+  }
+
+
